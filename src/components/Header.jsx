@@ -1,4 +1,3 @@
-// Функціональний компонент Header (вимога методички).
 export default function Header() {
   return (
     <header className="site-header">

@@ -1,4 +1,3 @@
-// Товар отримує фотографію, назву та ціну через props.
 export default function GoodsCard({ name, price, image }) {
   return (
     <article className="goods-card">

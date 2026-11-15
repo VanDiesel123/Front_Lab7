@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "./Image.jsx";
 
-// Класовий компонент Content (вимога методички).
 export default class Content extends React.Component {
   constructor(props) {
     super(props);

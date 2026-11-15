@@ -1,4 +1,3 @@
-// Функціональний компонент Image (вимога методички).
 export default function Image({ src, width }) {
   return (
     <a
